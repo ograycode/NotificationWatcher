@@ -1,0 +1,11 @@
+h1. NotificationWatcher
+
+This is a simple example of being able to log status bar notifications. 
+
+*NOTE:* The user must turn on Accessibility by going to Settings -> Accessibility and manually turning it on. They then receive a nasty warning message about the applicaiton being able to read everything they do. This is not a permission that the user can accept when they install it (that I know of).
+
+While the targeted runtime is 2.3, I believe this code should work on anything from 1.4 and above. 
+
+h2. TODO
+* Comment the code.
+* Clean up the code as necessary.
